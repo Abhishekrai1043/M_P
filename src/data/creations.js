@@ -1,0 +1,58 @@
+export const creations = [
+  {
+    id: 1,
+    title: 'Vibes Unplugged Podcast',
+    description: 'Engaging conversations with influential personalities from politics and administration.',
+    image: '/images/Banner1.jpeg',
+    type: 'podcast',
+  },
+  {
+    id: 2,
+    title: 'Professional Interview Series',
+    description: 'In-depth discussions with experts and thought leaders.',
+    image: '/images/Banner2.jpeg',
+    type: 'video',
+  },
+  {
+    id: 3,
+    title: 'Leadership Chronicles',
+    description: 'Inspiring conversations with industry leaders and visionaries.',
+    image: '/images/Banner3.jpeg',
+    type: 'podcast',
+  },
+  {
+    id: 4,
+    title: 'Behind the Scenes',
+    description: 'Exclusive look into our production process and team collaboration.',
+    image: '/images/Banner4.jpeg',
+    type: 'documentary',
+  },
+  {
+    id: 5,
+    title: 'Expert Conversations',
+    description: 'Deep dive discussions with legal experts and advocates.',
+    image: '/images/banner5.jpeg',
+    type: 'interview-series',
+  },
+  {
+    id: 6,
+    title: 'Live Studio Sessions',
+    description: 'Real-time podcast recording with interactive audience engagement.',
+    image: '/images/banner6.jpeg',
+    type: 'live-event',
+  },
+  {
+    id: 7,
+    title: 'Political Perspectives',
+    description: 'Balanced discussions on current political affairs and governance.',
+    image: '/images/Banner1.jpeg',
+    type: 'podcast',
+  },
+  {
+    id: 8,
+    title: 'Production Excellence',
+    description: 'Showcasing our commitment to high-quality content creation.',
+    image: '/images/Banner2.jpeg',
+    type: 'video',
+  },
+];
